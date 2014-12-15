@@ -1,6 +1,8 @@
 # api_sample
 
-FIXME
+twitterの指定アカウントにたいしてダイレクトメッセージを送るだけの
+WEBアプリケーション
+clojureの勉強目的アプリ
 
 ## Prerequisites
 
@@ -16,4 +18,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 hisataka
