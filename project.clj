@@ -6,7 +6,8 @@
                  [compojure "1.3.1"]
                  [ring/ring-defaults "0.1.2"]
                  [twitter-api/twitter-api "0.7.7"]
-                 [ring/ring-jetty-adapter "1.2.1"]]
+                 [ring/ring-jetty-adapter "1.2.1"]
+                 [http-kit "2.1.16"]]
   :plugins [[lein-ring "0.8.13"]]
   :ring {:handler api-sample.core.handler/app}
   :profiles
